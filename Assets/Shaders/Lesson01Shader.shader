@@ -12,7 +12,7 @@ Shader "Learning/Lesson01Shader"
             "RenderType"       = "Opaque"
             "PerformanceChecks"= "False"
             "RenderPipeline"   = "UniversalPipeline"
-            "Queue"            = "Geometry"
+            "Queue"            = "Geometry+1"
             "IgnoreProjector"  = "True"
         }
 
